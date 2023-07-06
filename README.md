@@ -1,3 +1,6 @@
+## Screenshots
+
+![App Screenshot](https://github.com/bogdanblare/Tic-Tac-Toe/blob/main/Screenshot.png?raw=true)
 ## Tic-Tac-Toe
 
 This game is a classic version of "Tic-Tac-Toe" that is familiar to everyone. The objective of the game is to complete a horizontal, vertical, or diagonal line of three matching symbols (X's or O's) before your opponent does.
